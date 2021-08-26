@@ -1,0 +1,59 @@
+[
+    {
+        "language": "English",
+        "months": {
+            "JanContent": "Jan",
+            "FebContent": "Feb",
+            "MarContent": "Mar",
+            "AprContent": "Apr",
+            "mayContent": "may",
+            "JunContent": "Jun",
+            "JulContent": "Jul",
+            "AugContent": "Aug",
+            "SepContent": "Sep",
+            "OctContent": "Oct",
+            "NovContent": "Nov",
+            "DecContent": "Dec"
+        },
+        "days": {
+            "sundayContent": "Sunday",
+            "mondayContent": "Monday",
+            "tuesdaydayContent": "Tuesday",
+            "wednesdayContent": "Wednesday",
+            "thursdayContent": "Thursday",
+            "fridayContent": "Friday",
+            "saturdayContent": "Saturday"
+        },
+        "justNowContent": "Just Now",
+        "todayContent": "Today",
+        "minutesAgoContent": "@number@ Minutes ago.",
+        "minutesAgoSingleContent": "1 Minute ago.",
+        "hoursAgoContent": "@number@ Hours ago.",
+        "hoursAgoSingleContent": "1 Hour ago.",
+        "yesterdayContent": "Yesterday",
+        "minutesAfterContent": "@number@ Minutes Left.",
+        "minutesAfterSingleContent": "1 Minute Left.",
+        "hoursAfterContent": "@number@ Hours Left.",
+        "hoursAfterSingleContent": "1 Hour Left.",
+        "tomorrowContent": "Tomorrow",
+        "amContent": "AM",
+        "pmContent": "PM",
+        "thisContent": "This",
+        "timeFormats": {
+            "feedback": {
+                "isRelative": true,
+                "withTime": true,
+                "withSecond": false,
+                "railwayTime": false,
+                "weekRelative": true
+            },
+            "payment": {
+                "isRelative": true,
+                "withTime": false,
+                "withSecond": false,
+                "railwayTime": false,
+                "weekRelative": false
+            }
+        }
+    }
+]
